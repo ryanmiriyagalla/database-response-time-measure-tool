@@ -1,0 +1,1671 @@
+Start Time: Fri Aug 28 16:21:34 EDT 2020
+-----------------------------------------------------------------------------------------------------------------
+                              Connected to database and query execution started                                  
+-----------------------------------------------------------------------------------------------------------------
+
+Time taken GetConnection = 293 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 52 ms.
+Time taken QueryWithResultset = 56 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 6 ms.
+Time taken QueryWithResultset = 6 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 6 ms.
+Time taken QueryWithResultset = 6 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 5 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 17 ms.
+Time taken QueryWithResultset = 18 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 7 ms.
+Time taken QueryWithResultset = 7 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 5 ms.
+Time taken CloseConnection = 2 ms.
+
+Time taken GetConnection = 73 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 5 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 5 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 3 ms.
+Time taken QueryWithResultset = 3 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 5 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 5 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 6 ms.
+Time taken QueryWithResultset = 7 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 7 ms.
+Time taken QueryWithResultset = 7 ms.
+Time taken CloseConnection = 0 ms.
+
+Time taken GetConnection = 59 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 5 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 8 ms.
+Time taken QueryWithResultset = 8 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 5 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 6 ms.
+Time taken QueryWithResultset = 6 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 7 ms.
+Time taken QueryWithResultset = 7 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 5 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 5 ms.
+Time taken CloseConnection = 1 ms.
+
+Time taken GetConnection = 62 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 5 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 10 ms.
+Time taken QueryWithResultset = 11 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 6 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 5 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 5 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 6 ms.
+Time taken QueryWithResultset = 6 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 6 ms.
+Time taken QueryWithResultset = 6 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 6 ms.
+Time taken CloseConnection = 1 ms.
+
+Time taken GetConnection = 63 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 7 ms.
+Time taken QueryWithResultset = 8 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 5 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 5 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 5 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 5 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 6 ms.
+Time taken QueryWithResultset = 6 ms.
+Time taken CloseConnection = 0 ms.
+
+Time taken GetConnection = 70 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 5 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 5 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 17 ms.
+Time taken QueryWithResultset = 17 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 33 ms.
+Time taken QueryWithResultset = 33 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 5 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 6 ms.
+Time taken QueryWithResultset = 6 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 312 ms.
+Time taken QueryWithResultset = 312 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 5 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 5 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 5 ms.
+Time taken CloseConnection = 0 ms.
+
+Time taken GetConnection = 64 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 10 ms.
+Time taken QueryWithResultset = 10 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 5 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 6 ms.
+Time taken QueryWithResultset = 6 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 13 ms.
+Time taken QueryWithResultset = 13 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 5 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 5 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 6 ms.
+Time taken QueryWithResultset = 6 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 6 ms.
+Time taken QueryWithResultset = 6 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 5 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Time taken CloseConnection = 1 ms.
+
+Time taken GetConnection = 64 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 6 ms.
+Time taken QueryWithResultset = 6 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 6 ms.
+Time taken QueryWithResultset = 6 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 5 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 8 ms.
+Time taken QueryWithResultset = 8 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 13 ms.
+Time taken QueryWithResultset = 13 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 5 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 6 ms.
+Time taken QueryWithResultset = 6 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Time taken CloseConnection = 0 ms.
+
+Time taken GetConnection = 65 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 6 ms.
+Time taken QueryWithResultset = 6 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 6 ms.
+Time taken QueryWithResultset = 6 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 5 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 5 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 6 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 6 ms.
+Time taken QueryWithResultset = 6 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 5 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 7 ms.
+Time taken QueryWithResultset = 7 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 5 ms.
+Time taken CloseConnection = 0 ms.
+
+Time taken GetConnection = 51 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 3 ms.
+Time taken QueryWithResultset = 3 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 5 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 5 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 5 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 5 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 7 ms.
+Time taken QueryWithResultset = 7 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 5 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Time taken CloseConnection = 0 ms.
+
+Time taken GetConnection = 58 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 5 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 5 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 7 ms.
+Time taken QueryWithResultset = 7 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 5 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 5 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 5 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 5 ms.
+Time taken CloseConnection = 1 ms.
+
+Time taken GetConnection = 74 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 7 ms.
+Time taken QueryWithResultset = 7 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 16 ms.
+Time taken QueryWithResultset = 16 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 6 ms.
+Time taken QueryWithResultset = 6 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 8 ms.
+Time taken QueryWithResultset = 8 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 5 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 5 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Time taken CloseConnection = 1 ms.
+
+Time taken GetConnection = 62 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 5 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 6 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 5 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 5 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 5 ms.
+Time taken CloseConnection = 1 ms.
+
+Time taken GetConnection = 73 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 5 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 7 ms.
+Time taken QueryWithResultset = 7 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 7 ms.
+Time taken QueryWithResultset = 7 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 5 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 5 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Time taken CloseConnection = 1 ms.
+
+Time taken GetConnection = 73 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 8 ms.
+Time taken QueryWithResultset = 8 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 11 ms.
+Time taken QueryWithResultset = 11 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 5 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 7 ms.
+Time taken QueryWithResultset = 7 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 7 ms.
+Time taken QueryWithResultset = 7 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 15 ms.
+Time taken QueryWithResultset = 15 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 5 ms.
+Time taken CloseConnection = 1 ms.
+
+Time taken GetConnection = 65 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 3 ms.
+Time taken QueryWithResultset = 3 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 5 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 6 ms.
+Time taken QueryWithResultset = 6 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 5 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 7 ms.
+Time taken QueryWithResultset = 7 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Time taken CloseConnection = 0 ms.
+
+Time taken GetConnection = 80 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 6 ms.
+Time taken QueryWithResultset = 6 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 7 ms.
+Time taken QueryWithResultset = 7 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 3 ms.
+Time taken QueryWithResultset = 3 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 10 ms.
+Time taken QueryWithResultset = 10 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 7 ms.
+Time taken QueryWithResultset = 7 ms.
+Time taken CloseConnection = 1 ms.
+
+Time taken GetConnection = 64 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 6 ms.
+Time taken QueryWithResultset = 6 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 5 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 5 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 5 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 6 ms.
+Time taken QueryWithResultset = 6 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 6 ms.
+Time taken CloseConnection = 0 ms.
+
+Time taken GetConnection = 66 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 5 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 6 ms.
+Time taken QueryWithResultset = 6 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 5 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 5 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Time taken CloseConnection = 0 ms.
+
+Time taken GetConnection = 69 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 5 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 5 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 6 ms.
+Time taken QueryWithResultset = 6 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 5 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 6 ms.
+Time taken QueryWithResultset = 6 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 9 ms.
+Time taken QueryWithResultset = 9 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 31 ms.
+Time taken QueryWithResultset = 31 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 6 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 5 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Time taken CloseConnection = 1 ms.
+
+Time taken GetConnection = 58 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 3 ms.
+Time taken QueryWithResultset = 4 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 5 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 10 ms.
+Time taken QueryWithResultset = 10 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 15 ms.
+Time taken QueryWithResultset = 15 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 13 ms.
+Time taken QueryWithResultset = 13 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 6 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 14 ms.
+Time taken QueryWithResultset = 14 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 9 ms.
+Time taken QueryWithResultset = 9 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 5 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 6 ms.
+Time taken QueryWithResultset = 6 ms.
+Time taken CloseConnection = 1 ms.
+
+Time taken GetConnection = 63 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 3 ms.
+Time taken QueryWithResultset = 4 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 5 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 5 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 5 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 6 ms.
+Time taken QueryWithResultset = 6 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 5 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 5 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Time taken CloseConnection = 0 ms.
+
+Time taken GetConnection = 173 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 14 ms.
+Time taken QueryWithResultset = 14 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 7 ms.
+Time taken QueryWithResultset = 7 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 5 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 5 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 5 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 5 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 6 ms.
+Time taken CloseConnection = 1 ms.
+
+Time taken GetConnection = 64 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 3 ms.
+Time taken QueryWithResultset = 3 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 6 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 8 ms.
+Time taken QueryWithResultset = 8 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 16 ms.
+Time taken QueryWithResultset = 16 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 6 ms.
+Time taken QueryWithResultset = 6 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 6 ms.
+Time taken QueryWithResultset = 6 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Time taken CloseConnection = 0 ms.
+
+Time taken GetConnection = 63 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 3 ms.
+Time taken QueryWithResultset = 3 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 5 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 5 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 3 ms.
+Time taken QueryWithResultset = 3 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 5 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 5 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 5 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 6 ms.
+Time taken QueryWithResultset = 6 ms.
+Time taken CloseConnection = 1 ms.
+
+Time taken GetConnection = 66 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 5 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 5 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 5 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 6 ms.
+Time taken QueryWithResultset = 6 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 6 ms.
+Time taken QueryWithResultset = 6 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 6 ms.
+Time taken QueryWithResultset = 6 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 5 ms.
+Time taken CloseConnection = 0 ms.
+
+Time taken GetConnection = 54 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 5 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 5 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 6 ms.
+Time taken QueryWithResultset = 6 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 5 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 10 ms.
+Time taken QueryWithResultset = 10 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 6 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 23 ms.
+Time taken QueryWithResultset = 23 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 5 ms.
+Time taken CloseConnection = 0 ms.
+
+Time taken GetConnection = 59 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 5 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 5 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 6 ms.
+Time taken QueryWithResultset = 6 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 7 ms.
+Time taken QueryWithResultset = 7 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 5 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 5 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 5 ms.
+Time taken CloseConnection = 1 ms.
+
+Time taken GetConnection = 66 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 5 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 6 ms.
+Time taken QueryWithResultset = 6 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 5 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 8 ms.
+Time taken QueryWithResultset = 8 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 12 ms.
+Time taken QueryWithResultset = 12 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 9 ms.
+Time taken QueryWithResultset = 9 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 6 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 7 ms.
+Time taken QueryWithResultset = 7 ms.
+Time taken CloseConnection = 1 ms.
+
+Time taken GetConnection = 117 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 3 ms.
+Time taken QueryWithResultset = 3 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 5 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 15 ms.
+Time taken QueryWithResultset = 15 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Time taken CloseConnection = 0 ms.
+
+Time taken GetConnection = 58 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 3 ms.
+Time taken QueryWithResultset = 3 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 9 ms.
+Time taken QueryWithResultset = 9 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 7 ms.
+Time taken QueryWithResultset = 7 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 5 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 5 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 5 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 5 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 5 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 6 ms.
+Time taken QueryWithResultset = 6 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Time taken CloseConnection = 1 ms.
+
+Time taken GetConnection = 57 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 3 ms.
+Time taken QueryWithResultset = 3 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 5 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 7 ms.
+Time taken QueryWithResultset = 7 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 6 ms.
+Time taken QueryWithResultset = 6 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 5 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 5 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 5 ms.
+Time taken CloseConnection = 0 ms.
+
+Time taken GetConnection = 60 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 8 ms.
+Time taken QueryWithResultset = 8 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 5 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 5 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 5 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 5 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 5 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Time taken CloseConnection = 1 ms.
+
+Time taken GetConnection = 356 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 58 ms.
+Time taken QueryWithResultset = 58 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 48 ms.
+Time taken QueryWithResultset = 48 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 51 ms.
+Time taken QueryWithResultset = 51 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 56 ms.
+Time taken QueryWithResultset = 56 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 67 ms.
+Time taken QueryWithResultset = 67 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 63 ms.
+Time taken QueryWithResultset = 63 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 55 ms.
+Time taken QueryWithResultset = 55 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 63 ms.
+Time taken QueryWithResultset = 63 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 47 ms.
+Time taken QueryWithResultset = 47 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 46 ms.
+Time taken QueryWithResultset = 46 ms.
+Time taken CloseConnection = 1 ms.
+
+Time taken GetConnection = 60 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 3 ms.
+Time taken QueryWithResultset = 3 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 5 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 5 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 5 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 5 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 5 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 5 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 5 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 9 ms.
+Time taken QueryWithResultset = 9 ms.
+Time taken CloseConnection = 0 ms.
+
+Time taken GetConnection = 54 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 3 ms.
+Time taken QueryWithResultset = 3 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 5 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 3 ms.
+Time taken QueryWithResultset = 3 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 3 ms.
+Time taken QueryWithResultset = 3 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 5 ms.
+Time taken CloseConnection = 0 ms.
+
+Time taken GetConnection = 60 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 6 ms.
+Time taken QueryWithResultset = 6 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 5 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 6 ms.
+Time taken QueryWithResultset = 6 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 5 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 5 ms.
+Time taken CloseConnection = 0 ms.
+
+Time taken GetConnection = 62 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 6 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 24 ms.
+Time taken QueryWithResultset = 24 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 5 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 5 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 6 ms.
+Time taken QueryWithResultset = 6 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 5 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 7 ms.
+Time taken QueryWithResultset = 7 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Time taken CloseConnection = 0 ms.
+
+Time taken GetConnection = 61 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 5 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 5 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 5 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 12 ms.
+Time taken QueryWithResultset = 12 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 31 ms.
+Time taken QueryWithResultset = 31 ms.
+Time taken CloseConnection = 1 ms.
+
+Time taken GetConnection = 51 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 5 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 5 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 6 ms.
+Time taken QueryWithResultset = 6 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 5 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 5 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 49 ms.
+Time taken QueryWithResultset = 49 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 19 ms.
+Time taken QueryWithResultset = 19 ms.
+Time taken CloseConnection = 0 ms.
+
+Time taken GetConnection = 758 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 451 ms.
+Time taken QueryWithResultset = 451 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 84 ms.
+Time taken QueryWithResultset = 84 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 125 ms.
+Time taken QueryWithResultset = 125 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 112 ms.
+Time taken QueryWithResultset = 112 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 106 ms.
+Time taken QueryWithResultset = 106 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 97 ms.
+Time taken QueryWithResultset = 97 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 124 ms.
+Time taken QueryWithResultset = 124 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 122 ms.
+Time taken QueryWithResultset = 122 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 103 ms.
+Time taken QueryWithResultset = 103 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 146 ms.
+Time taken QueryWithResultset = 146 ms.
+Time taken CloseConnection = 1 ms.
+
+Time taken GetConnection = 53 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 6 ms.
+Time taken QueryWithResultset = 6 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 5 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 6 ms.
+Time taken QueryWithResultset = 6 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 5 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Time taken CloseConnection = 1 ms.
+
+Time taken GetConnection = 65 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 3 ms.
+Time taken QueryWithResultset = 3 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 11 ms.
+Time taken QueryWithResultset = 11 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 7 ms.
+Time taken QueryWithResultset = 7 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 5 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 5 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 6 ms.
+Time taken QueryWithResultset = 6 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 6 ms.
+Time taken QueryWithResultset = 6 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 5 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 7 ms.
+Time taken QueryWithResultset = 7 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 3 ms.
+Time taken QueryWithResultset = 4 ms.
+Time taken CloseConnection = 0 ms.
+
+Time taken GetConnection = 55 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 3 ms.
+Time taken QueryWithResultset = 4 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 5 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 5 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 5 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 5 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 7 ms.
+Time taken QueryWithResultset = 7 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 5 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Time taken CloseConnection = 1 ms.
+
+Time taken GetConnection = 59 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 7 ms.
+Time taken QueryWithResultset = 8 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 5 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 5 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 3 ms.
+Time taken QueryWithResultset = 3 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Time taken CloseConnection = 1 ms.
+
+Time taken GetConnection = 55 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 6 ms.
+Time taken QueryWithResultset = 6 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 6 ms.
+Time taken QueryWithResultset = 7 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 3 ms.
+Time taken QueryWithResultset = 4 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 5 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 7 ms.
+Time taken QueryWithResultset = 7 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 5 ms.
+Time taken CloseConnection = 0 ms.
+
+Time taken GetConnection = 86 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 7 ms.
+Time taken QueryWithResultset = 7 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 5 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 9 ms.
+Time taken QueryWithResultset = 9 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 5 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 6 ms.
+Time taken QueryWithResultset = 6 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 5 ms.
+Time taken CloseConnection = 1 ms.
+
+Time taken GetConnection = 66 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 5 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 8 ms.
+Time taken QueryWithResultset = 8 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 11 ms.
+Time taken QueryWithResultset = 11 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 3 ms.
+Time taken QueryWithResultset = 4 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 5 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 5 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 5 ms.
+Time taken CloseConnection = 0 ms.
+
+Time taken GetConnection = 50 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 5 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 5 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 3 ms.
+Time taken QueryWithResultset = 3 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 3 ms.
+Time taken QueryWithResultset = 3 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 3 ms.
+Time taken QueryWithResultset = 3 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 5 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 6 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 3 ms.
+Time taken QueryWithResultset = 3 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 5 ms.
+Time taken CloseConnection = 1 ms.
+
+Time taken GetConnection = 84 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 8 ms.
+Time taken QueryWithResultset = 8 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 5 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 5 ms.
+Time taken QueryWithResultset = 6 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 3 ms.
+Time taken QueryWithResultset = 3 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 4 ms.
+Time taken QueryWithResultset = 4 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 10 ms.
+Time taken QueryWithResultset = 10 ms.
+Query Executed : SELECT 1
+Time taken ExecuteQuery = 34 ms.
+Time taken QueryWithResultset = 34 ms.
+
+
+-----------------------------------------------------------------------------------------------------------------
+                       AverageGetConnectionTime = 90.82 ms.
+-----------------------------------------------------------------------------------------------------------------
+
+-----------------------------------------------------------------------------------------------------------------
+                       AverageQueryTimeExecution = 10.19 ms.
+-----------------------------------------------------------------------------------------------------------------
+
+-----------------------------------------------------------------------------------------------------------------
+                       AverageQueryTimeWithResultSet = 10.276 ms.
+-----------------------------------------------------------------------------------------------------------------
+
+-----------------------------------------------------------------------------------------------------------------
+                       AverageCloseConnectionTime = 0.54 ms.
+-----------------------------------------------------------------------------------------------------------------
+End Time: Fri Aug 28 16:25:54 EDT 2020
